@@ -36,4 +36,4 @@ Below are the key slides summarizing the findings and approach:
 ---
 
 ## Contact
-For more details or inquiries, feel free to connect on [LinkedIn](#) or email me at [your-email@example.com].
+For more details or inquiries, feel free to contact me via email me at [yina.qiao84@spsmail.cuny.edu.
