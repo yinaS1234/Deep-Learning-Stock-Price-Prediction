@@ -1,4 +1,3 @@
-# Deep-Learning-Stock-Price-Prediction
 # Stock Price Prediction Using Deep Learning 📈🧠
 
 ## Project Overview
