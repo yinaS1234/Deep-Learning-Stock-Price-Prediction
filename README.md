@@ -17,7 +17,8 @@ This research investigates the performance of advanced deep learning models—LS
 ## Presentation
 Below are the key slides summarizing the findings and approach:
 
-![Slide 1](https://github.com/username/repo-name/blob/main/Resources/slide1.png)
+![698ppt1](https://github.com/yinaS1234/Deep-Learning-Stock-Price-Prediction/blob/main/resource/698ppt1.png)
+
 ![Slide 2](https://github.com/username/repo-name/blob/main/Resources/slide2.png)
 ![Slide 3](https://github.com/username/repo-name/blob/main/Resources/slide3.png)
 ![Slide 4](https://github.com/username/repo-name/blob/main/Resources/slide4.png)
