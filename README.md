@@ -13,7 +13,7 @@ Below are the key slides summarizing the findings and approach:
 ### Key Highlights:
 - **Objective**: To assess the predictive accuracy and practical trading utility of different deep learning architectures.
 - **Results**:
-  - **LSTM** emerged as the most reliable model for both short- and long-term forecasts, achieving the lowest prediction error across all forecast windows.
+  - **LSTM** achieved an RMSE of ~$2 and consistently generated small Alpha excess returns, outperforming other models in accuracy and trading potential.
   - **CNN+LSTM** performed well but did not surpass LSTM, while **CNN** excelled in short-term forecasting but struggled with longer horizons.
   - **RNN** had the highest prediction errors, making it the least effective model.
   - **Alpha analysis** demonstrated LSTM's potential for generating short-term excess returns, emphasizing its suitability for trading-focused applications.
