@@ -1,6 +1,6 @@
 # Stock Price Prediction Using Deep Learning 📈🧠
 
-This research investigates the performance of advanced deep learning models—LSTM, CNN, RNN, and CNN+LSTM—in predicting stock prices across 100 U.S. stocks from the S&P 100, spanning diverse sectors. The models were evaluated using **Root Mean Squared Error (RMSE)**, **Mean Absolute Error (MAE)**, and **Alpha**, across forecast windows ranging from 20 to 250 days.
+This research leverages deep learning to predict stock prices across 100 S&P 100 stocks, evaluating models like LSTM, CNN, and RNN. What makes this project unique is its dual focus: identifying the most accurate model and determining which model is better at generating Alpha excess returns, providing actionable insights for trading strategies
 
 ## Presentation
 Below are the key slides summarizing the findings and approach:
